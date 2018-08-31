@@ -1,6 +1,6 @@
 {
   "name": "egg-lowdb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "eggPlugin": {
     "name": "lowdb"
@@ -37,9 +37,11 @@
     "autod": "autod"
   },
   "files": [
-    "app.js",
+    "app",
+    "config",
     "agent.js",
-    "config"
+    "lib",
+    "app.js"
   ],
   "ci": {
     "version": "8, 9"
