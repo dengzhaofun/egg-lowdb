@@ -8,4 +8,5 @@
 exports.lowdb = {
   app: true,
   agent: false,
+  adapter: 'file',
 };
