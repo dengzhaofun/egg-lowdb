@@ -1,10 +1,10 @@
 {
   "name": "egg-lowdb",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "eggPlugin": {
     "name": "lowdb",
-    "dependencies": ["acm"]
+    "optionalDependencies": ["acm"]
   },
   "keywords": [
     "egg",
