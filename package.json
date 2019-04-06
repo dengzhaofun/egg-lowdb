@@ -1,6 +1,6 @@
 {
   "name": "egg-lowdb",
-  "version": "1.2",
+  "version": "1.2.0",
   "description": "",
   "eggPlugin": {
     "name": "lowdb",
